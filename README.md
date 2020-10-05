@@ -1,2 +1,5 @@
 # hello-world
-First school repository
+
+School Projects
+
+Python coding projects for school.
